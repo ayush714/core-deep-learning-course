@@ -1,6 +1,6 @@
 # Core Deep Learning Course 
 
-Note - Notes can be found in repository itself and if you've got questions while doing this course - you can join this group for the same [here]([https://chat.whatsapp.com/KjqvmPOlgPu3TQE1cVaGdk](https://chat.whatsapp.com/ESdAmUaUbQH7JT9XIZJ5nO))
+Note - Notes can be found in repository itself and if you've got questions while doing this course - you can join this group for the same [here](https://chat.whatsapp.com/ESdAmUaUbQH7JT9XIZJ5nO)
 
 Deep learning is one of the most emerging domains in this era, Learning Deep Learning is worth it! We present ML002 a full deep learning course from scratch covering mathematics basics to some level in deep learning. We saw many students suffering for not getting the right resources to learn for free. 
 
