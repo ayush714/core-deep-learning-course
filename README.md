@@ -14,6 +14,8 @@ It also sets you a foundation of learning from images and texts, and In this era
 
 ## Syllabus: 
 
+Note - Notes can be found in repository itself and if you've got questions while doing this course - you can join this group for the same [here](https://chat.whatsapp.com/KjqvmPOlgPu3TQE1cVaGdk)
+
 ### Module 1: Getting Ready for Deep Learning 
 
 * Chapter 1:- Linear Algebra 
